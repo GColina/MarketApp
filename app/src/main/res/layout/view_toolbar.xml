@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="?actionBarSize"
+    tools:background="@color/background">
+
+    <TextView
+        style="@style/TitleHomeView"
+        android:layout_gravity="center"
+        android:text="@string/home_title" />
+
+    <TextView
+        android:id="@+id/tvAddAsset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end|center"
+        android:padding="16dp"
+        android:text="@string/add_asset"
+        android:textColor="@color/white" />
+
+</FrameLayout>
+

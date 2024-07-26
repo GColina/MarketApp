@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SupermarketApp</string>
+    <string name="home_title">Home</string>
+    <string name="add_asset">Add product</string>
+    <string name="iv_Asset_description">Imagen del producto</string>
+    <string name="title_last_products">Last Products</string>
+    <string name="title_home_products">Products</string>
+</resources>
