@@ -15,7 +15,8 @@ class ProductResponse(
             imageUrl = image,
             title = name,
             description = description,
-            price = price
+            price = price,
+
         )
     }
 }
